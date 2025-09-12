@@ -22,7 +22,8 @@ nav a {
 h1{
     color: #0051ff;
 }
-main img{
+
+main img {
     width: 150px;
     height: auto;
     border: 2px solid black;
@@ -30,6 +31,7 @@ main img{
     padding: 1em;
     margin: 1em;
 }
+
 
 aside img{
     width: 200px;
@@ -58,7 +60,8 @@ aside{
 
 footer {
     background-color: rgb(223, 221, 221);
-    text-align: left;
+    text-align: center;
     padding: 1em;
-    margin-bottom: 1em;
+    margin-top: 15px;
+    border-top: 1px solid #000;
 }
