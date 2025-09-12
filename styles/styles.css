@@ -1,0 +1,46 @@
+main{
+    max-width: 840px;
+}
+
+h1{
+    color: #0051ff;
+}
+main img{
+    width: 150px;
+    height: auto;
+    border: 2px solid black;
+    box-shadow: 2px 2px 5px rgba(29, 147, 243, 0.5);
+    padding: 1em;
+    margin: 1em;
+}
+
+aside img{
+    width: 200px;
+    height: auto;
+}
+
+p{
+    padding: 0 ;
+}
+
+header, footer{
+    background-color: rgb(223, 221, 221);
+    text-align: left;
+    padding: 1em;
+    margin-bottom: 1em;
+}
+
+aside{
+    width: 380px;
+    margin: 1em;
+    border: 2px solid black;
+    padding: 1em;
+    background-color:rgb(223, 221, 221) ;
+    box-shadow: 2px 2px 5px rgba(29, 147, 243, 0.5);
+}
+
+footer{
+    text-align: center;
+    border-top: 1px solid #000;
+    margin-top: 15px;
+}
