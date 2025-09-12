@@ -2,6 +2,20 @@ main{
     max-width: 840px;
 }
 
+nav{
+    display: flex;
+    justify-content: left;
+    background-color: rgb(223, 221, 221);
+    padding: 1em;
+    margin-bottom: 1em;
+}
+nav a{
+    margin: 1em;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
 h1{
     color: #0051ff;
 }
