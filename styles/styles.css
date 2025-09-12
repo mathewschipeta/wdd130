@@ -40,7 +40,7 @@ p{
     padding: 0 ;
 }
 
-header, footer{
+header{
     background-color: rgb(223, 221, 221);
     text-align: left;
     padding: 1em;
